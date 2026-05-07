@@ -21,4 +21,7 @@ Aqui pegamos el html/xml:
 
 Imprimimos la factura del cliente:
 <img width="778" height="571" alt="image" src="https://github.com/user-attachments/assets/a113e095-ee66-48a2-89e4-bd9046d3a07d" />
+Exportamos los datos de los clientes para cualquier otro sistema:
+<img width="708" height="234" alt="image" src="https://github.com/user-attachments/assets/6610de4d-0d37-4a56-8a6f-0f6254d885eb" />
+
 
